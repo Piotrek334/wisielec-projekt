@@ -1,0 +1,11 @@
+C:\Users\piotr\source\repos\gra_Wisielec\gra_Wisielec\bin\Debug\gra_Wisielec.exe.config
+C:\Users\piotr\source\repos\gra_Wisielec\gra_Wisielec\bin\Debug\gra_Wisielec.exe
+C:\Users\piotr\source\repos\gra_Wisielec\gra_Wisielec\bin\Debug\gra_Wisielec.pdb
+C:\Users\piotr\source\repos\gra_Wisielec\gra_Wisielec\obj\Debug\gra_Wisielec.csprojAssemblyReference.cache
+C:\Users\piotr\source\repos\gra_Wisielec\gra_Wisielec\obj\Debug\gra_Wisielec.Szubienica.resources
+C:\Users\piotr\source\repos\gra_Wisielec\gra_Wisielec\obj\Debug\gra_Wisielec.Properties.Resources.resources
+C:\Users\piotr\source\repos\gra_Wisielec\gra_Wisielec\obj\Debug\gra_Wisielec.Rozgrywka.resources
+C:\Users\piotr\source\repos\gra_Wisielec\gra_Wisielec\obj\Debug\gra_Wisielec.csproj.GenerateResource.cache
+C:\Users\piotr\source\repos\gra_Wisielec\gra_Wisielec\obj\Debug\gra_Wisielec.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\gra_Wisielec\gra_Wisielec\obj\Debug\gra_Wisielec.exe
+C:\Users\piotr\source\repos\gra_Wisielec\gra_Wisielec\obj\Debug\gra_Wisielec.pdb
